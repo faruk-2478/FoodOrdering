@@ -1,0 +1,6 @@
+PAYMENT INFORMATION
+
+Payment methods:
+1. Cash
+2. UPI
+3. Credit Card
