@@ -1,0 +1,6 @@
+ONLINE FOOD ORDERING MENU
+
+1. Pizza - Rs. 250
+2. Burger - Rs. 150
+3. Pasta - Rs. 200
+4. French Fries - Rs. 100
